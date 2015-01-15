@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /home/jamesdolan/Documents/duoregon/delta-upsilon-uo.github.io/members/.htpasswd
+require valid-user
