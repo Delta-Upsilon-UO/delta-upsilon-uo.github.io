@@ -1,0 +1,9 @@
+EXEC pics
+	~PRES~
+	~EDU~
+	ACE -- Wait for jeffs replacement
+	ADMIN
+	FINANCE
+	LOSS
+	RECRUIT
+	~EXTERN~
